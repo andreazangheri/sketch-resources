@@ -31,10 +31,6 @@ A curated list of awesome Sketch resources.
 * [Sketch2AE](https://google.github.io/sketch2ae/) by Adam Plouff
 * [AEUX](https://adamplouff.github.io/aeux-doc/) by Adam Plouff
 
-#### Code Style
-
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-fdad00.svg)](https://github.com/prettier/prettier)
-
 #### License
 
 All trademarks and copyrights are property of their respective owners.
